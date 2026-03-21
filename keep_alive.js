@@ -7,8 +7,7 @@ function keepAlive() {
     const app = express();
     const port = 3000;
     const envPath = ".env";
-    const configPath = "config.jsn
-    ";
+    const configPath = "config.js";
 
     app.use(express.urlencoded({ extended: true }));
 
