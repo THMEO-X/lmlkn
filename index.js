@@ -37,4 +37,4 @@ client.on("invalidated", () => {
 });
 /* ------------------------------------- */
 
-client.login("MTQ1ODA5NTY0OTc3Mjc5ODAyNg.Gq3vIS.sXC4D5kD6Kp-XTk7w_MZt8XOHYm15MxrL7nO5U");
+client.login(process.env.DISCORDS);
