@@ -10,7 +10,7 @@ function rpc(client, config) {
         .setDetails("sớm thôi trong 5 tháng")
         .setStartTimestamp(Date.now())
         .setAssetsLargeImage(cfg.LARGE_IMAGE_URL)
-        .setAssetsLargeText("OwO Farm Bot Stable")
+        .setAssetsLargeText("X")
         .addButton(cfg.BUTTON_1_LABEL, cfg.BUTTON_1_URL)
         .addButton(cfg.BUTTON_2_LABEL, cfg.BUTTON_2_URL);
 
